@@ -92,6 +92,15 @@
 		<version>5.1.29</version>
 	</dependency>
 	
+	
+	<!-- postgresql 
+	<dependency>
+		<groupId>org.postgresql</groupId>
+		<artifactId>postgresql-9.2.jdbc41</artifactId>
+		<version>9.2</version>
+	</dependency>
+	-->
+	
 	<!-- Hibernate4 -->
 	<dependency>
 	    <groupId>org.hibernate</groupId>

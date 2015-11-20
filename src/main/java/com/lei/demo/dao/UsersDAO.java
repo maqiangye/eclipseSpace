@@ -28,7 +28,7 @@ public class UsersDAO {
 		String hsql="from users";
 		Session session = sessionFactory.getCurrentSession();
 		Query query = session.createQuery(hsql);
-		
+		 
 		return query.list();
 	}
 }
